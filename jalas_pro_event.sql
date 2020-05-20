@@ -1,0 +1,4 @@
+INSERT INTO jalas_pro.event (idevent, name, latitude, longitude, idconfiguration, idestablishment) VALUES ('6628896648825143296', 'EVENTO DE PULQUES', 18.7889, -99.204, '6628896648841920512', '6628806076558999552');
+INSERT INTO jalas_pro.event (idevent, name, latitude, longitude, idconfiguration, idestablishment) VALUES ('6628897642816471040', 'EVENTO DE LA PARCELA', 18.8362, -99.2241, '6628897642820665344', '6628806076558999552');
+INSERT INTO jalas_pro.event (idevent, name, latitude, longitude, idconfiguration, idestablishment) VALUES ('6628897957649317888', 'EVENTO DE BZZ', 18.9348, -99.2283, '6628897957653512192', '6628807358678040576');
+INSERT INTO jalas_pro.event (idevent, name, latitude, longitude, idconfiguration, idestablishment) VALUES ('6628898390224666624', 'EVENTO DE ZOAH', 18.9813, -99.2448, '6628898390287581184', '6628807804998123520');
